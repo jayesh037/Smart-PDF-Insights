@@ -1,0 +1,159 @@
+{
+  "pdf": "sample.pdf",
+  "persona": "general reader",
+  "headings": [
+    {
+      "text": "Sample Document for SmartPDFInsights",
+      "page": 1,
+      "size": 24.0,
+      "bold": false,
+      "level": 1
+    },
+    {
+      "text": "1. Introduction",
+      "page": 1,
+      "size": 16.0,
+      "bold": false,
+      "level": 2
+    },
+    {
+      "text": "2. Methodology",
+      "page": 2,
+      "size": 16.0,
+      "bold": false,
+      "level": 2
+    },
+    {
+      "text": "3. Results",
+      "page": 3,
+      "size": 16.0,
+      "bold": false,
+      "level": 2
+    },
+    {
+      "text": "4. Discussion",
+      "page": 4,
+      "size": 16.0,
+      "bold": false,
+      "level": 2
+    },
+    {
+      "text": "5. Conclusion",
+      "page": 4,
+      "size": 16.0,
+      "bold": false,
+      "level": 2
+    }
+  ],
+  "structure": [
+    {
+      "text": "Sample Document for SmartPDFInsights",
+      "children": [
+        {
+          "text": "1. Introduction",
+          "children": [],
+          "page": 1
+        },
+        {
+          "text": "2. Methodology",
+          "children": [],
+          "page": 2
+        },
+        {
+          "text": "3. Results",
+          "children": [],
+          "page": 3
+        },
+        {
+          "text": "4. Discussion",
+          "children": [],
+          "page": 4
+        },
+        {
+          "text": "5. Conclusion",
+          "children": [],
+          "page": 4
+        }
+      ],
+      "page": 1
+    }
+  ],
+  "content": "Sample Document for SmartPDFInsights\n1. Introduction\nThis is a sample document created for testing the SmartPDFInsights system. It contains various\nheadings and content sections to evaluate the heading extraction and persona matching\ncapabilities.\n1.1 Background\nThe field of Natural Language Processing has evolved significantly over the past decades. From\nsimple rule-based systems to complex neural networks, the advancements have enabled solutions\nto previously unsolvable problems. This section provides historical context and foundational\nknowledge necessary for understanding current approaches.\n\n\n1.2 Problem Statement\nDespite advances in NLP, several challenges remain in PDF analysis. These include heading\nextraction accuracy, relevance matching for different personas, and generating meaningful insights.\nThis document addresses these challenges and proposes methodologies to overcome them in\npractical applications.\n2. Methodology\nOur approach combines traditional statistical methods with deep learning techniques. We employ a\nmulti-stage pipeline that includes heading extraction, section identification, persona matching, and\ninsight generation. Each stage is designed to address specific challenges identified in the problem\nstatement.\n2.1 Data Collection\nThe dataset used in this study consists of various PDF documents collected from academic,\nbusiness, and technical sources. Each document contains different heading styles, layouts, and\ncontent types. The data collection process involved rigorous quality checks to ensure diversity and\nrepresentativeness.\n\n\n2.2 Analysis Techniques\nWe employed several analytical techniques including PyMuPDF for structural analysis, OCR for\nscanned documents, hybrid retrieval combining TF-IDF and transformer embeddings, and\ncontext-aware summarization. Additionally, we used evaluation metrics to quantify performance\nimprovements.\n3. Results\nOur experiments demonstrate significant improvements over baseline methods. The proposed\napproach achieved higher accuracy in heading extraction and better relevance matching for different\npersonas. The results were consistent across multiple evaluation metrics including precision, recall,\nand F1 score.\n3.1 Key Findings\nThe key findings from our study include: (1) multi-feature heading detection significantly improves\nextraction accuracy, (2) hybrid retrieval methods consistently outperform single-approach methods,\nand (3) context-aware summarization produces more relevant insights for different personas.\n\n\n4. Discussion\nThe results of this study have several implications for both research and practice. From a theoretical\nperspective, our findings demonstrate the effectiveness of combining multiple approaches for PDF\nanalysis. From a practical standpoint, the proposed methodology offers a blueprint for implementing\nNLP solutions for document analysis.\n4.1 Business Implications\nThe business implications of our work are substantial. Organizations can leverage the proposed\napproach to improve document processing, knowledge extraction, and information retrieval. This\ncan lead to significant time savings and better decision-making based on document insights.\n5. Conclusion\nIn conclusion, this document presented a novel approach to PDF analysis that balances accuracy,\nefficiency, and practical applicability. The empirical results demonstrate the effectiveness of the\nproposed methodology across various metrics. We believe this work contributes significantly to both\nthe theoretical understanding and practical application of NLP for document analysis.\n\n\n",
+  "properties": {
+    "page_count": 4,
+    "metadata": {
+      "format": "PDF 1.3",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "PyFPDF 1.7.2 http://pyfpdf.googlecode.com/",
+      "creationDate": "D:20250728193121",
+      "modDate": "",
+      "trapped": "",
+      "encryption": null
+    },
+    "is_encrypted": false,
+    "permissions": -4
+  },
+  "matched_sections": [
+    {
+      "heading": "Sample Document for SmartPDFInsights",
+      "page": 1,
+      "score": 0.19498893035423087
+    },
+    {
+      "heading": "1. Introduction",
+      "page": 1,
+      "score": 0.11170941347635856
+    },
+    {
+      "heading": "5. Conclusion",
+      "page": 4,
+      "score": 0.10835550093143276
+    },
+    {
+      "heading": "2. Methodology",
+      "page": 2,
+      "score": 0.09976781655341145
+    },
+    {
+      "heading": "3. Results",
+      "page": 3,
+      "score": 0.0822000981492993
+    }
+  ],
+  "insights": [
+    {
+      "heading": "Sample Document for SmartPDFInsights",
+      "page": 1,
+      "summary": "Summarize the following text for a general reader: It contains various subheadings, headings and content sections to evaluate the heading and persona matching and the overall meta-capabilities.Figure 1.1.2.3: Introduction and ConclusionThe field of Natural Language Processing has evolved significantly over the past decades. This section provides historical context and foundational foreknowledge necessary for understanding current approaches.",
+      "relevance_score": 0.19498893035423087
+    },
+    {
+      "heading": "1. Introduction",
+      "page": 1,
+      "summary": "Summarize the following text for a general reader: It contains various sub-headings and content. The headings are presented as head-overhead head and head head, head overhead, content over head to evaluate the heading heading and persona matching the overallcapabilities.1.2 Background StatementThe field of Natural Language Processing has evolved significantly over the past decades. This section provides historical context and foundational knowledge and the technical foreknowledge necessary for understanding current approaches. 2.3 Conclusion and 3.4 ConclusionThe ConclusionDespite advances in NLP, several challenges remain in PDF analysis. Each stage is designed to address specific challenges identified in the problem-statement.The Report:2.0 SummaryThe Summary:The dataset used in.",
+      "relevance_score": 0.11170941347635856
+    },
+    {
+      "heading": "5. Conclusion",
+      "page": 4,
+      "summary": "Summarize the following text for a general reader: The empirical results demonstrate the effectiveness of the NLP-proposed methodology across various metrics. We believe this work contributes significantly to both \u201cthe theoretical understanding and practical application\u201d and the theoretical application of document analysis.",
+      "relevance_score": 0.10835550093143276
+    },
+    {
+      "heading": "2. Methodology",
+      "page": 2,
+      "summary": "Summarize the following text for a general reader: Additionally, we used evaluation metrics to quantify performance and self-improvements.3. Results of our experiments and our results:Our experiments demonstrate significant improvements over baseline methods. The proposed results show that single-approach and multi-feature-aware sub-substitions over one-time perach achieved higher accuracy in heading extraction and better relevance matching for different personas.The results were consistent across multiple evaluation criteria, including precision, recall, reliability, and reliabilityand F1 score. 3.1.5.2 and 3a.c.d.resultsThe key findings from our study include: (1) multi\u2013feature heading detection significantly improves in-extraction.",
+      "relevance_score": 0.09976781655341145
+    },
+    {
+      "heading": "3. Results",
+      "page": 3,
+      "summary": "Summarize the following text for a general reader: Results from the study:Our experiments demonstrate significant improvements over baseline methods. The results were consistent over multiple evaluation metrics including precision, recall, and reliability,and F1 score.3.1 Key FindingsThe key findings were:The main findings are: (1) multi-feature heading detection significantly improves accuracy, (2) cross-extraction accuracy and cross\u2013expectance and (3) hybrid retrieval methods consistently outperform single-approach methods,[3]and (4) context-aware summarization produces more relevant insights for different personas. We conclude that the results are important.4. This is an important study thatcan lead to significant time savings.",
+      "relevance_score": 0.0822000981492993
+    }
+  ]
+}

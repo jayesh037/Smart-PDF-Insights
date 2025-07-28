@@ -1,0 +1,140 @@
+{
+  "pdf": "sample.pdf",
+  "persona": "student",
+  "headings": [
+    {
+      "text": "Sample Document for SmartPDFInsights",
+      "page": 1,
+      "size": 24.0,
+      "bold": false,
+      "level": 1
+    },
+    {
+      "text": "1. Introduction",
+      "page": 1,
+      "size": 16.0,
+      "bold": false,
+      "level": 2
+    },
+    {
+      "text": "2. Methodology",
+      "page": 2,
+      "size": 16.0,
+      "bold": false,
+      "level": 2
+    },
+    {
+      "text": "3. Results",
+      "page": 3,
+      "size": 16.0,
+      "bold": false,
+      "level": 2
+    },
+    {
+      "text": "4. Discussion",
+      "page": 4,
+      "size": 16.0,
+      "bold": false,
+      "level": 2
+    },
+    {
+      "text": "5. Conclusion",
+      "page": 4,
+      "size": 16.0,
+      "bold": false,
+      "level": 2
+    }
+  ],
+  "structure": [
+    {
+      "text": "Sample Document for SmartPDFInsights",
+      "children": [
+        {
+          "text": "1. Introduction",
+          "children": [],
+          "page": 1
+        },
+        {
+          "text": "2. Methodology",
+          "children": [],
+          "page": 2
+        },
+        {
+          "text": "3. Results",
+          "children": [],
+          "page": 3
+        },
+        {
+          "text": "4. Discussion",
+          "children": [],
+          "page": 4
+        },
+        {
+          "text": "5. Conclusion",
+          "children": [],
+          "page": 4
+        }
+      ],
+      "page": 1
+    }
+  ],
+  "matched_sections": [
+    {
+      "heading": "Sample Document for SmartPDFInsights",
+      "page": 1,
+      "score": 0.1741137771133817
+    },
+    {
+      "heading": "1. Introduction",
+      "page": 1,
+      "score": 0.11005398902565268
+    },
+    {
+      "heading": "2. Methodology",
+      "page": 2,
+      "score": 0.09219593479201933
+    },
+    {
+      "heading": "4. Discussion",
+      "page": 4,
+      "score": 0.055438131778887526
+    },
+    {
+      "heading": "3. Results",
+      "page": 3,
+      "score": 0.038114677504639656
+    }
+  ],
+  "insights": [
+    {
+      "heading": "Sample Document for SmartPDFInsights",
+      "page": 1,
+      "summary": "Summarize the following text for a student: From super-simple rule-based systems to complex neural networks, the advancements have enabled solutions to\u2026to previously unsolvable problems. This section provides historical context and foundational knowledge\u2014knowledge necessary for understanding current approaches.",
+      "relevance_score": 0.1741137771133817
+    },
+    {
+      "heading": "1. Introduction",
+      "page": 1,
+      "summary": "Summarize the following text for a student: This section provides historical context and foundational knowledge. It provides the knowledge and self-knowledge necessary for understanding current approaches.DownloadDownload PDF Analysis:1.2 Problem Statement of DiffusionDespite advances in NLP, several challenges remain in PDF analysis. Methodology:Our approach combines traditional statistical methods with deep learning techniques. Each stage is designed to address specific challenges identified in the problem statement.3. Conclusion:2.1 Data Collection:The ProblemThe dataset used in this study consists of various PDF documents collected from academic, business-to-business, and technical sources.Each document contains different heading styles, layouts, or sub-content types.",
+      "relevance_score": 0.11005398902565268
+    },
+    {
+      "heading": "2. Methodology",
+      "page": 2,
+      "summary": "Summarize the text text for a student: Methodology, Conclusion and Conclusion.Our approach combines traditional statistical methods with deep learning techniques. Each stage is designed to address specific challenges identified in the problem, and provide a high-quality overstatement.2.3.1 Data CollectionThe dataset used in this study consists of various PDF documents collected from academic, business, non-business, academic and technical sources. The proposed data were analyzed in detail. We found that multi-feature and hybrid-approach achieved higher accuracy in heading extraction and better relevance matching for different personas.The results were consistent across multiple evaluation metrics including precision, recall, accuracy, reliability and reliability\u2014and F1 score.4.0 Conclusion:2.",
+      "relevance_score": 0.09219593479201933
+    },
+    {
+      "heading": "4. Discussion",
+      "page": 4,
+      "summary": "Summarize the following text for a student: Discussion on document analysis.The results of this study have several implications for both research and practice. Organizations can leverage the proposed NLP-approach to improve document processing, knowledge extraction, and information retrieval. We believe this work contributes significantly to both the theoretical and theoretical understanding and practical application of document information, as well as to theoretical knowledge and understanding of information information.",
+      "relevance_score": 0.055438131778887526
+    },
+    {
+      "heading": "3. Results",
+      "page": 3,
+      "summary": "Summarize the following text for a student: The results were consistent across multiple evaluation metrics including precision, recall, reliability, and accuracy, with a single-and F1 score.3.1 Key FindingsThe key findings from our study include: (1) multi-feature heading significantly improves, (2) cross-extraction accuracy significantly increases, cross\u2013exposure and cross\u2011exexivity and (3) hybrid retrieval methods consistently outperform single\u2010approach methods, [and (4) context-aware summarization produces more relevant insights for different personas.4. Discussion and ConclusionThe results of this study have several implications for both research and practice. Organizations can leverage the proposed approach of NLP and multi.",
+      "relevance_score": 0.038114677504639656
+    }
+  ]
+}

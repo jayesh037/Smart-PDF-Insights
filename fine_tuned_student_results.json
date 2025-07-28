@@ -1,0 +1,140 @@
+{
+  "pdf": "sample.pdf",
+  "persona": "student learning about machine learning",
+  "headings": [
+    {
+      "text": "Sample Document for SmartPDFInsights",
+      "page": 1,
+      "size": 24.0,
+      "bold": false,
+      "level": 1
+    },
+    {
+      "text": "1. Introduction",
+      "page": 1,
+      "size": 16.0,
+      "bold": false,
+      "level": 2
+    },
+    {
+      "text": "2. Methodology",
+      "page": 2,
+      "size": 16.0,
+      "bold": false,
+      "level": 2
+    },
+    {
+      "text": "3. Results",
+      "page": 3,
+      "size": 16.0,
+      "bold": false,
+      "level": 2
+    },
+    {
+      "text": "4. Discussion",
+      "page": 4,
+      "size": 16.0,
+      "bold": false,
+      "level": 2
+    },
+    {
+      "text": "5. Conclusion",
+      "page": 4,
+      "size": 16.0,
+      "bold": false,
+      "level": 2
+    }
+  ],
+  "structure": [
+    {
+      "text": "Sample Document for SmartPDFInsights",
+      "children": [
+        {
+          "text": "1. Introduction",
+          "children": [],
+          "page": 1
+        },
+        {
+          "text": "2. Methodology",
+          "children": [],
+          "page": 2
+        },
+        {
+          "text": "3. Results",
+          "children": [],
+          "page": 3
+        },
+        {
+          "text": "4. Discussion",
+          "children": [],
+          "page": 4
+        },
+        {
+          "text": "5. Conclusion",
+          "children": [],
+          "page": 4
+        }
+      ],
+      "page": 1
+    }
+  ],
+  "matched_sections": [
+    {
+      "heading": "Sample Document for SmartPDFInsights",
+      "page": 1,
+      "score": 0.2894089897814588
+    },
+    {
+      "heading": "1. Introduction",
+      "page": 1,
+      "score": 0.20309527036013778
+    },
+    {
+      "heading": "2. Methodology",
+      "page": 2,
+      "score": 0.1521221600854754
+    },
+    {
+      "heading": "5. Conclusion",
+      "page": 4,
+      "score": 0.11243070557054327
+    },
+    {
+      "heading": "3. Results",
+      "page": 3,
+      "score": 0.09575837951996681
+    }
+  ],
+  "insights": [
+    {
+      "heading": "Sample Document for SmartPDFInsights",
+      "page": 1,
+      "summary": "Summarize the following text for a student learning about machine learning: From simple-to-simple rule-based systems to complex neural networks, the advancements have enabled solutions\u2014and more\u2014to previously unsolvable problems. This section provides historical context and foundational knowledge\u2014knowledge necessary for understanding current approaches.",
+      "relevance_score": 0.2894089897814588
+    },
+    {
+      "heading": "1. Introduction",
+      "page": 1,
+      "summary": "Summarize the following text for a student learning about machine learning: This section provides historical context and foundational knowledge of machine-learning and the technical-knowledge necessary for understanding current approaches.The PDF-1.2 Problem Statement:Despite advances in NLP, several challenges remain in PDF analysis. Methodology:Our approach combines traditional statistical methods with deep learning techniques. Each stage is designed to address specific challenges identified in the problem, which we call the \u201cproblem\u201d statement.PDF-2.1 Data CollectionThe dataset used in this study consists of various PDF documents collected from academic, business-business, and technical sources.Each document contains different heading styles, layouts, color and sub-content types.",
+      "relevance_score": 0.20309527036013778
+    },
+    {
+      "heading": "2. Methodology",
+      "page": 2,
+      "summary": "Summarize the following text for a student learning about machine learning: Methodology of the study:Our approach combines traditional statistical methods with deep learning techniques. Each stage is designed to address specific challenges identified in the problem. The results are summarized in a single-statement.2.1 Data CollectionThe data was collected from various sources.The dataset used in this study consists of various PDF documents from academic, business, non-business, and technical source. We found that multi-feature heading detection and single source-aware summarization achieved higher accuracy in heading extraction and better relevance matching for different personas and sub-personas. Results were consistent across multiple evaluation metrics including precision, recall, reliability and reliability,and F1 score.",
+      "relevance_score": 0.1521221600854754
+    },
+    {
+      "heading": "5. Conclusion",
+      "page": 4,
+      "summary": "Summarize the following text for a student learning about machine learning: The empirical results demonstrate the effectiveness of the NLP-proposed methodology across various metrics. We believe this work contributes significantly to boththe theoretical understanding and practical application and the theoretical knowledge and theoretical applications and to the mathematical and mathematical application for document analysis.",
+      "relevance_score": 0.11243070557054327
+    },
+    {
+      "heading": "3. Results",
+      "page": 3,
+      "summary": "Summarize the following text for a student learning about machine learning: The results were consistent across multiple evaluation metrics including precision, recall, and accuracy,and F1 score.3.1 and 3.2 and 4.4 and5.5 and 5.c.a.d. [3]The Key FindingsThe key findings from our study include: (1) multi-feature heading detection significantly improves self-extraction accuracy and reliability, (2) hybrid retrieval methods consistently outperform single-approach methods, [and (3) context-aware summarization produces more relevant insights for different personas.\u201d4. DiscussionThe results of this study have several implications for both research and practice. Organizations can.",
+      "relevance_score": 0.09575837951996681
+    }
+  ]
+}

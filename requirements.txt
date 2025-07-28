@@ -1,0 +1,16 @@
+# Core dependencies
+pymupdf==1.21.1  # For PDF processing (PyMuPDF)
+numpy>=1.20.0
+opencv-python>=4.5.0  # For image processing
+pytesseract>=0.3.8  # For OCR
+Pillow>=8.0.0  # For image handling
+
+# NLP and ML dependencies
+transformers>=4.18.0  # For T5 model
+sentence-transformers>=2.2.0  # For embeddings
+scikit-learn>=1.0.0  # For TF-IDF and metrics
+torch>=1.10.0  # PyTorch for deep learning
+
+# Utilities
+tqdm>=4.62.0  # For progress bars
+typing-extensions>=4.0.0  # For type hints in Python 3.7+

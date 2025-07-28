@@ -1,0 +1,140 @@
+{
+  "pdf": "sample.pdf",
+  "persona": "business professional",
+  "headings": [
+    {
+      "text": "Sample Document for SmartPDFInsights",
+      "page": 1,
+      "size": 24.0,
+      "bold": false,
+      "level": 1
+    },
+    {
+      "text": "1. Introduction",
+      "page": 1,
+      "size": 16.0,
+      "bold": false,
+      "level": 2
+    },
+    {
+      "text": "2. Methodology",
+      "page": 2,
+      "size": 16.0,
+      "bold": false,
+      "level": 2
+    },
+    {
+      "text": "3. Results",
+      "page": 3,
+      "size": 16.0,
+      "bold": false,
+      "level": 2
+    },
+    {
+      "text": "4. Discussion",
+      "page": 4,
+      "size": 16.0,
+      "bold": false,
+      "level": 2
+    },
+    {
+      "text": "5. Conclusion",
+      "page": 4,
+      "size": 16.0,
+      "bold": false,
+      "level": 2
+    }
+  ],
+  "structure": [
+    {
+      "text": "Sample Document for SmartPDFInsights",
+      "children": [
+        {
+          "text": "1. Introduction",
+          "children": [],
+          "page": 1
+        },
+        {
+          "text": "2. Methodology",
+          "children": [],
+          "page": 2
+        },
+        {
+          "text": "3. Results",
+          "children": [],
+          "page": 3
+        },
+        {
+          "text": "4. Discussion",
+          "children": [],
+          "page": 4
+        },
+        {
+          "text": "5. Conclusion",
+          "children": [],
+          "page": 4
+        }
+      ],
+      "page": 1
+    }
+  ],
+  "matched_sections": [
+    {
+      "heading": "Sample Document for SmartPDFInsights",
+      "page": 1,
+      "score": 0.21431694820053315
+    },
+    {
+      "heading": "4. Discussion",
+      "page": 4,
+      "score": 0.1440670733187096
+    },
+    {
+      "heading": "1. Introduction",
+      "page": 1,
+      "score": 0.13161507722628024
+    },
+    {
+      "heading": "3. Results",
+      "page": 3,
+      "score": 0.10561833109104284
+    },
+    {
+      "heading": "2. Methodology",
+      "page": 2,
+      "score": 0.10358496898486261
+    }
+  ],
+  "insights": [
+    {
+      "heading": "Sample Document for SmartPDFInsights",
+      "page": 1,
+      "summary": "Summarize the following text for a business professional: From simple-and-simple rule-based systems to complex neural networks, the advancements have enabled solutions to previously unsolvable problems. This section provides historical context and foundational knowledge and the knowledge/knowledge necessary for understanding current approaches.",
+      "relevance_score": 0.21431694820053315
+    },
+    {
+      "heading": "4. Discussion",
+      "page": 4,
+      "summary": "Summarize the following text for a business professional: From a practical standpoint, the proposed methodology offers a blueprint for implementing NLP/NLP solutions for document analysis.4.1 Business ImplicationsThe business implications of our work are substantial. The empirical results demonstrate the effectiveness of the co-proposed methodology across various metrics. We believe this work contributes significantly to both the theoretical and the technical aspects\u2014the theoretical understanding and practical application of N LP for documents, as well as to the practical applications of this approach in document and document-analysis.",
+      "relevance_score": 0.1440670733187096
+    },
+    {
+      "heading": "1. Introduction",
+      "page": 1,
+      "summary": "Summarize the following text for a business professional: We employ a multi-multi-stage pipeline that includes heading extraction, section identification, persona matching, and general-insight generation. Each stage is designed to address specific challenges identified in the problem, which we call \u201cunderstatement.\u201d2.1 Data Collection.The dataset used in this study consists of various PDF documents collected from academic, business, non-business, academic-in-the-middle-class-and-high-pressure-to-a-great-through-all-different-type-of-content types. The data collection process involved rigorous quality checks to ensure diversity and overrepresentativeness.",
+      "relevance_score": 0.13161507722628024
+    },
+    {
+      "heading": "3. Results",
+      "page": 3,
+      "summary": "Summarize the following text for a business professional: From a practical standpoint, the proposed methodology offers a blueprint for implementing the best-in-classNLP solutions for document analysis.4.1 Business ImplicationsThe business implications of our work are substantial. ConclusionIn conclusion, this document presented a novel approach to PDF analysis that balances accuracy, cost-efficiency, and practical applicability. The empirical results demonstrate the effectiveness of the NLP-proposed methodology across various metrics. We believe this work contributes significantly to boththe theoretical understanding and the practical application of a document-as-a-service model, as well as the theoretical knowledge and theoretical responsibility for the analysis of document data.",
+      "relevance_score": 0.10561833109104284
+    },
+    {
+      "heading": "2. Methodology",
+      "page": 2,
+      "summary": "Summarize the following text for a business professional: Each stage is designed to address specific challenges identified in the problem, and to provide a counter-statement.3.2.1 Data Collection and ResultsThe dataset used in this study consists of various PDF documents collected from academic, business, non-business, government, private-sector, large-scale, big-data, micro- and microbusiness.Our experiments demonstrate significant improvements over baseline methods. The proposed single-approach achieved higher accuracy in heading extraction and better relevance matching for different personas.The results were consistent across multiple evaluation metrics including precision, recall, accuracy, reliability and reliability\u2014and F1 score.\u201cThe Results\u201d are summarized in a single.",
+      "relevance_score": 0.10358496898486261
+    }
+  ]
+}

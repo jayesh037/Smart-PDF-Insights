@@ -1,0 +1,45 @@
+{
+  "headings": [
+    {"text": "Introduction", "level": 1, "page": 1},
+    {"text": "Background", "level": 2, "page": 1},
+    {"text": "Problem Statement", "level": 2, "page": 2},
+    {"text": "Methodology", "level": 1, "page": 3},
+    {"text": "Data Collection", "level": 2, "page": 3},
+    {"text": "Analysis Techniques", "level": 2, "page": 4},
+    {"text": "Results", "level": 1, "page": 5},
+    {"text": "Key Findings", "level": 2, "page": 5},
+    {"text": "Statistical Analysis", "level": 2, "page": 6},
+    {"text": "Discussion", "level": 1, "page": 7},
+    {"text": "Implications", "level": 2, "page": 7},
+    {"text": "Limitations", "level": 2, "page": 8},
+    {"text": "Conclusion", "level": 1, "page": 9},
+    {"text": "Future Work", "level": 2, "page": 9},
+    {"text": "References", "level": 1, "page": 10}
+  ],
+  "personas": {
+    "researcher": [
+      {"id": "section_3", "heading": "Methodology"},
+      {"id": "section_4", "heading": "Data Collection"},
+      {"id": "section_5", "heading": "Analysis Techniques"},
+      {"id": "section_6", "heading": "Results"},
+      {"id": "section_7", "heading": "Key Findings"},
+      {"id": "section_8", "heading": "Statistical Analysis"}
+    ],
+    "business professional": [
+      {"id": "section_0", "heading": "Introduction"},
+      {"id": "section_6", "heading": "Results"},
+      {"id": "section_7", "heading": "Key Findings"},
+      {"id": "section_9", "heading": "Discussion"},
+      {"id": "section_10", "heading": "Implications"},
+      {"id": "section_12", "heading": "Conclusion"}
+    ],
+    "student": [
+      {"id": "section_0", "heading": "Introduction"},
+      {"id": "section_1", "heading": "Background"},
+      {"id": "section_2", "heading": "Problem Statement"},
+      {"id": "section_3", "heading": "Methodology"},
+      {"id": "section_6", "heading": "Results"},
+      {"id": "section_12", "heading": "Conclusion"}
+    ]
+  }
+}

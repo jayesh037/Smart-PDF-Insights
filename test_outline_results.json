@@ -1,0 +1,61 @@
+[
+  {
+    "title": "test_pdf_with_outline.pdf",
+    "outline": [
+      {
+        "text": "Introduction",
+        "page": 1,
+        "level": "H1"
+      },
+      {
+        "text": "Background and Context",
+        "page": 2,
+        "level": "H2"
+      },
+      {
+        "text": "Methodology",
+        "page": 3,
+        "level": "H1"
+      },
+      {
+        "text": "Results",
+        "page": 4,
+        "level": "H1"
+      },
+      {
+        "text": "Key Findings",
+        "page": 4,
+        "level": "H2"
+      },
+      {
+        "text": "Statistical Analysis",
+        "page": 4,
+        "level": "H3"
+      },
+      {
+        "text": "Conclusion",
+        "page": 5,
+        "level": "H1"
+      }
+    ],
+    "content": "Page 1\nIntroduction\nThis is the introduction section.\n\n\nPage 2\nBackground and Context\nThis is the background section.\n\n\nPage 3\nMethodology\nThis is the methodology section.\n\n\nPage 4\nResults\nThis is the results section.\nKey Findings\nStatistical Analysis\n\n\nPage 5\nConclusion\nThis is the conclusion section.\n\n\n",
+    "properties": {
+      "page_count": 5,
+      "metadata": {
+        "format": "PDF 1.7",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "",
+        "creationDate": "",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+      },
+      "is_encrypted": false,
+      "permissions": -4
+    }
+  }
+]
