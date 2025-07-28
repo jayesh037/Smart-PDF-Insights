@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartPDFInsights: Enhanced NLP System for PDF Analysis
 
 SmartPDFInsights is an advanced NLP system designed to extract headings, identify relevant sections, and generate persona-specific insights from PDF documents. This implementation focuses on improving accuracy for heading extraction and persona-based relevance matching while maintaining CPU-only operation and reasonable model sizes.
@@ -123,3 +124,6 @@ For evaluation, provide a JSON file with the following structure:
 ## License
 
 MIT
+=======
+# Smart-PDF-Insights
+>>>>>>> b05e34bce1e7482d9a5b86428e4dc775c71d7bad
